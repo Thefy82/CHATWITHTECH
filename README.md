@@ -25,8 +25,6 @@ Be one of the first to start using this tool.
 
 - [Create an account for free](https://account.CHATWITHTECH.co/auth/register)
   
-- [Tutorial](https://www.youtube.com/watch?v=UX9LncRh0h8)
-
 
 ## ✨ Claude 2 🤖 from Anthropic lands on CHATWITHTECH
 
