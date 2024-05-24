@@ -12,9 +12,6 @@ Available from version 2.1.16 or higher
 
 Exciting news! You can start using CHATWITHTECH Plus. This feature allows you to load information within Visual Studio Code to have a better understanding of your project's context.
 
-## ✨ Claude 2 🤖 from Anthropic lands on CHATWITHTECH
 
-Now you can use Claude 2 from Anthropic, check this link:
-[Documentation](https://docs.CHATWITHTECH.co/docs/tutorial-ai-providers/anthropic)
 
 
